@@ -2,7 +2,7 @@
 
 Insertion Sort in ARM Assembly for a Hardware Class
 
-Email me at mhammond9@radford.edu for the source code
+Email me at mhammond9@radford.edu for the source, if you're an employer.
 
 You must be running this shell script in an ARM processor (i.e. Raspberry Pi)
 
