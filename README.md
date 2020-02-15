@@ -1,6 +1,6 @@
 # ARM Insertion Sort
 
-Insertion Sort in ARM Assembly for a Hardware Class
+Insertion Sort in ARM assembly to run on Raspberry Pis for a Hardware Class
 
 Email me at mhammond9@radford.edu for the source, if you're an employer.
 
